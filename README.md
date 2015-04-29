@@ -1,9 +1,13 @@
+## Install
+
+npm install
+
 ## Run
 
 ```
 node index.js
 ```
 
-## Detail
+## Test
 
-[http://www.cnblogs.com/index-html/p/mitm-cookie-sniffer.html](http://www.cnblogs.com/index-html/p/mitm-cookie-sniffer.html)
+Chrome SwitchySharp - HTTP Proxy 127.0.0.1:8080
