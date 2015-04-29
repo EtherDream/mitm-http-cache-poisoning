@@ -1,0 +1,1 @@
+uglifyjs stub.js -m -c drop_console -o stub.min.js

