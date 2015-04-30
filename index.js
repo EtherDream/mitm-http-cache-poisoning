@@ -1,6 +1,6 @@
 /**
  * MITM-Http-Cache-Poisoning Sniffer
- *   @update 2015/01/02
+ *   @update 2015/04/30
  *   @author EtherDream
  */
 var fs = require('fs');
@@ -13,7 +13,7 @@ var mTargetMap = require('./asset/target.json');
 var mListBuf = new Buffer( Object.keys(mTargetMap).join('\n') );
 
 // 缓存内容
-var mStub = fs.readFileSync('./asset/stub.min.js', 'utf8');
+var mStub = fs.readFileSync('./asset/stub.js', 'utf8');
 
 // 开启服务
 app.listen(8080, function() {
