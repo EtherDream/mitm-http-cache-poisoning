@@ -1,165 +1,302 @@
 {
   "atanx.alicdn.com/t/tanxssp/main.js": {},
   "auto.alicdn.com/up/kirov/tmall.js": {},
-  "passport.baidu.com/passApi/js/uni_login_wrapper.js?cdnversion=1430309699919&_=1430309699861": {
+  "passport.baidu.com/passApi/js/uni_login_wrapper.js?cdnversion=1430359194964&_=1430359194863": {
     "etag": "\"4145019039\""
   },
-  "tb1.bdstatic.com/??/tb/_/app_f6b8e80.js,/tb/_/card_346a068.js,/tb/_/card_674dec7.js,/tb/_/js_pager_79de728.js,/tb/_/wallet_dialog_81c61e0.js,/tb/_/flash_lcs_3829bda.js,/tb/_/event_center_67527b9.js,/tb/_/new_message_system_4794c6b.js,/tb/_/messenger_89ba53a.js,/tb/_/base_user_data_45059da.js,/tb/_/cashier_dialog_3b1ee04.js,/tb/_/pay_member_5fc4a60.js,/tb/_/userbar_2d04d78.js,/tb/_/footer_af59471.js,/tb/_/poptip_74068e9.js,/tb/_/ad_stats_008fc58.js,/tb/_/search_handler_6b1cde2.js,/tb/_/suggestion_4c843b8.js,/tb/_/search_bright_b8c59ca.js,/tb/_/slide_show_27c9ac6.js,/tb/_/carousel_area_v2_4f4c647.js,/tb/_/interest_num_v2_def412c.js,/tb/_/tbskin_spage_1713630.js,/tb/_/loader_b96c7bd.js,/tb/_/tcharge_dialog_e652cc6.js,/tb/_/like_tip_3aa761f.js,/tb/_/icons_283a26c.js,/tb/_/member_api_759d9aa.js,/tb/_/nameplate_d41d8cd.js,/tb/_/util_b5d1f1a.js": {
-    "modify": "Wed, 29 Apr 2015 08:38:58 GMT"
-  },
-  "img3.cache.netease.com/cnews/js/ntes_jslib_1.0.2.js": {
-    "modify": "Fri, 14 Mar 2014 04:18:30 GMT",
-    "etag": "\"53228316-3ef2\"",
-    "charset": "GBK"
-  },
-  "mimg.127.net/p/js6/6.0b1504211455/js/p0.js": {
-    "modify": "Tue, 21 Apr 2015 07:06:15 GMT"
-  },
-  "static.youku.com/v1.0.1050/index/js/qheader.js": {
-    "modify": "Mon, 30 Mar 2015 02:05:00 GMT",
-    "etag": "\"1587549200\""
-  },
-  "passport.weibo.com/js/visitor/mini.js": {},
-  "mat1.gtimg.com/www/js/qq2012/weatherNew_1.6.js": {},
-  "cdn.tanx.com/t/tanxssp.js": {},
-  "ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_instant_search1_2f3338a2.js": {
-    "modify": "Wed, 29 Apr 2015 10:36:08 GMT",
-    "etag": "\"2e6b2-514da8c033600\""
-  },
-  "tb1.bdstatic.com/??/tb/_/user_visit_card_86c2b48.js,/tb/_/member_rank_40b029d.js,/tb/_/aside_v2_a08ee35.js,/tb/_/aside_platform_9ea2582.js,/tb/_/feedback_22ddff1.js,/tb/_/common_footer_promote_0840273.js,/tb/_/new_footer_d41d8cd.js,/tb/_/stats_8820933.js,/tb/_/tshow_out_date_warn_73fdc8e.js,/tb/_/ticket_warning_f136896.js,/tb/_/member_upgrade_tip_b39e94d.js,/tb/_/tpl_5_b1d3505.js,/tb/_/tpl_9_81643ae.js": {
-    "modify": "Wed, 29 Apr 2015 08:46:11 GMT"
-  },
-  "img2.126.net/ntesrich/2013/1210/adControl-indexx-v1.0.2-131210.js": {
-    "modify": "Tue, 10 Dec 2013 02:05:58 GMT"
-  },
-  "mimg.127.net/copyright/year.js": {
-    "modify": "Wed, 31 Dec 2014 16:01:43 GMT"
-  },
-  "static.youku.com/v1.0.1050/index/js/resize.js": {
-    "modify": "Mon, 30 Mar 2015 02:05:00 GMT",
-    "etag": "\"2303071441\""
-  },
-  "mat1.gtimg.com/www/js/qq2012/suggestion_1.1.6_sogou.js": {},
-  "ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_3b60d166.js": {
-    "modify": "Tue, 28 Apr 2015 08:33:24 GMT",
-    "etag": "\"3746-514c4b73e1d00\""
-  },
-  "tb1.bdstatic.com/??tb/static-common/lib/tb_lib_2874d22.js,tb/static-common/ui/common_logic_v2_0b552d1.js,tb/static-common/js/tb_ui_2d85646.js,/tb/_/ban_4ce308b.js": {
-    "modify": "Wed, 29 Apr 2015 08:38:58 GMT"
-  },
-  "img1.cache.netease.com/cnews/js/ntes_ui/ntes_ui_slide_0.3.2_min.js": {
-    "modify": "Tue, 15 Oct 2013 12:01:41 GMT",
-    "etag": "\"525d2ea5-1cec\"",
-    "charset": "GBK"
-  },
-  "mimg.127.net/p/bjs/release/bjs-1.0.41.js": {
-    "modify": "Fri, 19 Sep 2014 08:22:43 GMT"
-  },
-  "static.youku.com/v1.0.1050/cms/js/seedVideo.js": {
-    "modify": "Thu, 05 Mar 2015 02:51:36 GMT",
-    "etag": "\"1416384931\""
-  },
-  "mat1.gtimg.com/www/js/qq2012/hot_word_sogou1.1.js": {},
-  "ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/home/js/nu_instant_search_37dcbb5c.js": {
-    "modify": "Tue, 28 Apr 2015 08:33:24 GMT",
-    "etag": "\"48f0-514c4b73e1d00\""
-  },
-  "tb1.bdstatic.com/??/tb/_/dialog_dc42202.js,/tb/_/join_vip_dialog_e647d48.js,/tb/_/cont_sign_card_a9f70da.js,/tb/_/sign_mod_bright_df80887.js,/tb/_/tb_spam_846204f.js,/tb/_/my_tieba_155a6b8.js,/tb/_/icon_tip_3ff7c7f.js,/tb/_/popframe_cd135d9.js,/tb/_/scroll_panel_51b7780.js,/tb/_/often_visiting_forum_a1d8ace.js,/tb/_/onekey_sign_4119b84.js,/tb/_/spage_game_tab_5021af9.js,/tb/_/forum_directory_fe88aa2.js,/tb/_/forum_rcmd_v2_dd89fb9.js,/tb/_/spage_liveshow_slide_fd498ac.js,/tb/_/activity_carousel_d41d8cd.js,/tb/_/affairs_nav_4cce484.js,/tb/_/feed_data_534a867.js,/tb/_/dynamic_load_b34ab50.js,/tb/_/picture_rotation_a5475c9.js,/tb/_/affairs_9ac1c05.js,/tb/_/audio_player_c56fea7.js,/tb/_/voice_e8a2cce.js,/tb/_/tbcopy_16e1172.js,/tb/_/tbshare_988c171.js,/tb/_/aside_float_bar_1d7671e.js,/tb/_/user_head_741d9c2.js,/tb/_/interaction_288155a.js,/tb/_/month_icon_14e96eb.js,/tb/_/residual_250f75d.js": {
-    "modify": "Mon, 27 Apr 2015 09:32:24 GMT"
-  },
+  "dup.baidustatic.com/tpl/ac.js": {},
   "img6.cache.netease.com/common/script/wrating.js": {
     "modify": "Tue, 26 Mar 2013 06:45:32 GMT",
     "etag": "\"5151440c-15cf\"",
     "charset": "GBK"
   },
-  "mimg.127.net/index/lib/scripts/base_v5.min.js": {},
-  "static.youku.com/v1.0.1050/cms/js/cmsFriends.js": {
-    "modify": "Thu, 05 Mar 2015 02:51:36 GMT",
-    "etag": "\"1085004711\""
+  "mimg.127.net/copyright/year.js": {
+    "modify": "Wed, 31 Dec 2014 16:01:43 GMT"
   },
-  "mat1.gtimg.com/finance/js/st/p/qq/q_fin_v20140623144932.js?ran=0.49458880675956607": {},
-  "ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/sug/js/bdsug_input_event_ffa7c953.js": {
-    "modify": "Mon, 27 Apr 2015 12:41:51 GMT",
-    "etag": "\"8972-514b411ed81c0\""
+  "static.youku.com/v1.0.1050/index/js/iresearch.js": {
+    "modify": "Thu, 05 Mar 2015 02:51:44 GMT",
+    "etag": "\"1041646777\""
   },
-  "img.baidu.com/hunter/alog/dp.min.js?v=-16555": {
-    "modify": "Fri, 09 Jan 2015 03:40:50 GMT",
-    "etag": "\"1633222573\""
+  "passport.weibo.com/js/visitor/mini.js": {},
+  "wa.gtimg.com/web/res/shumway/src/shumway-min.js?2": {},
+  "img3.douban.com/misc/mixed_static/4ab298486326ad89.js": {
+    "modify": "Tue, 07 Apr 2015 15:58:37 GMT",
+    "charset": "utf-8"
   },
+  "www.sina.com.cn/js/96/2014/0317/StateMgr.js": {},
+  "s1.hao123img.com/v4/Qj/XT/Pe/sI/VW/QjXTPesIVW.js": {
+    "modify": "Tue, 28 Apr 2015 07:46:11 GMT",
+    "etag": "\"732494508\""
+  },
+  "images.sohu.com/bill": {},
+  "www.ifeng.com/0105/a1.js": {},
+  "static.tianyaui.com/global/ty/core/interface.js?_v=20153010": {
+    "modify": "Thu, 23 Apr 2015 01:33:10 GMT"
+  },
+  "s4.qhimg.com/static/207ff1d8196d4070.js": {
+    "modify": "Thu, 09 Oct 2014 09:09:38 GMT",
+    "etag": "\"543650d2-c85\""
+  },
+  "cdn.tanx.com/t/tanxssp.js": {},
+  "ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_instant_search1_2f3338a2.js": {
+    "modify": "Wed, 29 Apr 2015 10:36:08 GMT",
+    "etag": "\"2e6b2-514da8c033600\""
+  },
+  "dup.baidustatic.com/tpl/wh.js": {},
   "img1.cache.netease.com/f2e/finance/preterite/public/ntesquote-2.0.js": {
     "modify": "Tue, 26 Feb 2013 08:20:16 GMT",
     "etag": "\"512c7040-64c7\"",
     "charset": "utf-8"
   },
-  "static.youku.com/v1.0.1050/index/js/popup.js": {
-    "modify": "Thu, 05 Mar 2015 02:51:44 GMT",
-    "etag": "\"3061068149\""
+  "mimg.127.net/m/ir/8/bLoginTpl.js": {},
+  "static.youku.com/v1.0.1050/cms/js/seedVideo.js": {
+    "modify": "Thu, 05 Mar 2015 02:51:36 GMT",
+    "etag": "\"473547959\""
   },
-  "mat1.gtimg.com/www/js/qq2012/smartboxRewrite1.7.js": {},
-  "ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/baiduia/baiduia_b45d552b.js": {
-    "modify": "Mon, 02 Mar 2015 08:26:45 GMT",
-    "etag": "\"3e7b-51049fa817b40\""
+  "wa.gtimg.com/web/res/shumway/iframe/viewer.js?2": {},
+  "s.doubanio.com/dae/fundin/piwik.js": {
+    "modify": "Thu, 17 Jul 2014 04:47:02 GMT"
   },
-  "tieba.baidu.com/tb/static-common/component/commonLogic/common/common_default_merger.js?v=18.58": {
-    "modify": "Tue, 25 Nov 2014 03:02:49 GMT"
+  "www.sina.com.cn/js/index/96/live.js": {},
+  "s1.hao123img.com/v4/Yr/UQ/EU/me/JJ/YrUQEUmeJJ.js": {
+    "modify": "Tue, 28 Apr 2015 07:46:11 GMT",
+    "etag": "\"724081460\""
+  },
+  "news.sohu.com/upload/itoolbar/itoolbar.index.20140923.js": {
+    "modify": "Wed, 24 Sep 2014 02:42:34 GMT"
+  },
+  "m0.ifengimg.com/1d124ac5e89463af/2014/0529/sparta.js": {},
+  "static.tianyaui.com/qy/adsame/ads.js": {
+    "modify": "Tue, 14 Apr 2015 02:18:08 GMT"
+  },
+  "s0.qhimg.com/!d51918fb/switch.combo.js": {
+    "modify": "Thu, 09 Oct 2014 08:57:55 GMT",
+    "etag": "\"54364e13-611\""
+  },
+  "ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_3b60d166.js": {
+    "modify": "Tue, 28 Apr 2015 08:33:24 GMT",
+    "etag": "\"3746-514c4b73e1d00\""
+  },
+  "tb1.bdstatic.com/tb/_/iframe_api_7933a43.js": {
+    "modify": "Wed, 11 Mar 2015 06:42:29 GMT"
   },
   "img1.cache.netease.com/cnews/js/ntes_jslib_ui_0.0.1.js": {
     "modify": "Fri, 01 Feb 2013 09:29:18 GMT",
     "etag": "\"510b8aee-1abf\"",
     "charset": "GBK"
   },
-  "static.youku.com/v1.0.1050/index/js/qwindow.js": {
-    "modify": "Thu, 05 Mar 2015 02:51:44 GMT",
-    "etag": "\"2232299894\""
+  "mimg.127.net/index/lib/scripts/base_v5.min.js": {},
+  "static.youku.com/v1.0.1050/cms/js/cmsFriends.js": {
+    "modify": "Thu, 05 Mar 2015 02:51:36 GMT",
+    "etag": "\"149766323\""
   },
-  "mat1.gtimg.com/www/asset/lib/jquery/jquery/jquery-1.11.1.min.js": {},
-  "ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/jquery/jquery-1.10.2.min_f2fb5194.js": {
-    "modify": "Fri, 14 Nov 2014 03:43:37 GMT",
-    "etag": "\"16df0-507c96f14ac40\""
+  "mat1.gtimg.com/www/js/qq2012/suggestion_1.1.6_sogou.js": {},
+  "img3.douban.com/f/shire/72ced6df41d4d158420cebdd254f9562942464e3/js/jquery.min.js": {
+    "modify": "Wed, 21 Jan 2004 19:51:30 GMT"
   },
-  "tieba.baidu.com/tb/static-common/component/commonLogic/common/user_message/UserMessage.js?v=18.58": {
-    "modify": "Tue, 25 Nov 2014 03:02:49 GMT"
+  "d3.sina.com.cn/d1images/edu_ad_change/edu_ad_change.js": {},
+  "s0.hao123img.com/v4/ca/be/lH/hv/ft/cabelHhvft.js": {
+    "modify": "Tue, 28 Apr 2015 07:46:11 GMT",
+    "etag": "\"4280900212\""
   },
+  "news.sohu.com/upload/itoolbar/itoolbar.index.loader.20140923.js": {
+    "modify": "Wed, 24 Sep 2014 02:42:23 GMT"
+  },
+  "m1.ifengimg.com/ifeng/sources/120331-iImpression.js": {},
+  "static.tianyaui.com/global/ty/util/TY.util.userActionRl.js?_v=20140903": {
+    "modify": "Wed, 08 Apr 2015 01:09:22 GMT"
+  },
+  "s0.qhimg.com/static/b88d72f0c47ca682.js": {
+    "modify": "Thu, 09 Oct 2014 09:02:05 GMT",
+    "etag": "\"54364f0d-996\""
+  },
+  "ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/home/js/nu_instant_search_37dcbb5c.js": {
+    "modify": "Tue, 28 Apr 2015 08:33:24 GMT",
+    "etag": "\"48f0-514c4b73e1d00\""
+  },
+  "cbjs.baidu.com/js/m.js": {},
   "img6.cache.netease.com/cnews/img/gallery11/ntes_ui_scroll.js": {
     "modify": "Tue, 11 Sep 2012 11:11:30 GMT",
     "etag": "\"504f1c62-16b5\"",
     "charset": "GBK"
   },
-  "static.youku.com/v1.0.1050/cms/js/cmsDatafromPrototype.js": {
-    "modify": "Thu, 05 Mar 2015 02:51:36 GMT",
-    "etag": "\"3634878882\""
+  "static.youku.com/v1.0.1050/index/js/popup.js": {
+    "modify": "Thu, 05 Mar 2015 02:51:44 GMT",
+    "etag": "\"3036058592\""
   },
-  "tieba.baidu.com/tb/static-common/component/commonLogic/common/crosspage_msg_system/MsgSystem.js?v=18.58": {
-    "modify": "Tue, 25 Nov 2014 03:02:49 GMT"
+  "mat1.gtimg.com/www/js/qq2012/hot_word_sogou1.1.js": {},
+  "img3.douban.com/f/shire/0a3e8bdd48446950d821b65613a24e86be2b067a/js/ad.js": {
+    "modify": "Wed, 21 Jan 2004 19:51:30 GMT"
+  },
+  "d4.sina.com.cn/d1images/common/salebottom.js": {},
+  "s1.hao123img.com/v4/PC/nX/ig/yk/TD/PCnXigykTD.js": {
+    "modify": "Tue, 28 Apr 2015 07:46:11 GMT",
+    "etag": "\"4289289066\""
+  },
+  "images.sohu.com/bill/s2012/gates/all/sohuad2012v15.js": {},
+  "map.tongji.ifeng.com/clickheat/js/clickheat_www.js": {},
+  "static.tianyaui.com/global/ty/stat/stat_20080313.js": {
+    "modify": "Wed, 08 Apr 2015 01:09:22 GMT"
+  },
+  "s0.qhimg.com/lib/jquery/171.js": {
+    "modify": "Tue, 09 Sep 2014 09:09:29 GMT",
+    "etag": "\"540ec3c9-8105\""
+  },
+  "ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/sug/js/bdsug_input_event_ffa7c953.js": {
+    "modify": "Mon, 27 Apr 2015 12:41:51 GMT",
+    "etag": "\"8972-514b411ed81c0\""
+  },
+  "img.baidu.com/hunter/alog/dp.min.js?v=-16556": {
+    "modify": "Fri, 09 Jan 2015 03:40:50 GMT",
+    "etag": "\"1633222573\""
   },
   "img2.126.net/ntesrich/auto/adbox/adbox-v1.1.2-120705.js": {
     "modify": "Wed, 04 Jul 2012 22:19:00 GMT"
   },
-  "static.youku.com/v1.0.1050/cms/js/cmsCommon.js": {
-    "modify": "Thu, 05 Mar 2015 02:51:36 GMT",
-    "etag": "\"1153669027\""
+  "static.youku.com/v1.0.1050/index/js/qwindow.js": {
+    "modify": "Thu, 05 Mar 2015 02:51:44 GMT",
+    "etag": "\"2157745123\""
   },
-  "img.baidu.com/hunter/alog/alog.min.js": {
-    "modify": "Fri, 23 May 2014 06:06:14 GMT",
-    "etag": "\"1267227191\""
+  "jsqmt.qq.com/cdn_djl.js": {},
+  "img3.douban.com/f/shire/75a96a9c050c54de9110333d66ddfba490650830/js/core/do/_init_.js": {
+    "modify": "Wed, 21 Jan 2004 19:51:30 GMT"
   },
+  "finance.sina.com.cn/basejs/suggestServer.js": {},
+  "s1.hao123img.com/v4/Me/ZB/ZX/zO/uz/MeZBZXzOuz.js": {
+    "modify": "Tue, 28 Apr 2015 03:02:59 GMT",
+    "etag": "\"4186589804\""
+  },
+  "www.sohu.com/upload/js/sohuindex_city_v3-1.js": {},
+  "h2.ifengimg.com/ifeng/sources/region_v1.js": {},
+  "static.tianyaui.com/global/ty/TY.js": {
+    "modify": "Wed, 08 Apr 2015 01:09:22 GMT"
+  },
+  "s1.qhimg.com/static/b72b11d1f84b4b18.js": {
+    "modify": "Wed, 25 Mar 2015 03:20:37 GMT"
+  },
+  "ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/baiduia/baiduia_b45d552b.js": {
+    "modify": "Mon, 02 Mar 2015 08:26:45 GMT",
+    "etag": "\"3e7b-51049fa817b40\""
+  },
+  "dup.baidustatic.com/painter/clb/fixed7o.js": {},
   "img5.cache.netease.com/common/script/meter.min.js": {
     "modify": "Fri, 06 Apr 2012 07:13:06 GMT",
     "etag": "\"4f7e9782-421\"",
     "charset": "GBK"
   },
-  "static.youku.com/v1.0.1050/js/jquery.js": {
-    "modify": "Fri, 27 Feb 2015 09:12:52 GMT",
-    "etag": "\"170179236\""
+  "static.youku.com/v1.0.1050/cms/js/cmsDatafromPrototype.js": {
+    "modify": "Thu, 05 Mar 2015 02:51:36 GMT",
+    "etag": "\"2430684854\""
   },
-  "tb1.bdstatic.com/tb/static-common/lib/tb_lib.js": {
-    "modify": "Tue, 18 Feb 2014 07:19:26 GMT"
+  "wa.gtimg.com/web/res/shumway/src/shumway-worker-min.js?1": {},
+  "d1.sina.com.cn/js/index/14/sync.js": {},
+  "s1.hao123img.com/v4/FH/ZD/EN/Mk/wJ/FHZDENMkwJ.js": {
+    "modify": "Tue, 28 Apr 2015 07:46:11 GMT",
+    "etag": "\"2066268968\""
+  },
+  "images.sohu.com/bill/default/mi.js": {},
+  "click.wrating.com/c3.js": {
+    "modify": "Tue, 29 Apr 2014 03:50:36 GMT"
+  },
+  "static.tianyaui.com/global/member/web/static/js/login_6213bef.js": {},
+  "s8.qhimg.com/!a04eed30/monitor131227.js": {
+    "modify": "Mon, 23 Mar 2015 10:43:15 GMT"
+  },
+  "ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/jquery/jquery-1.10.2.min_f2fb5194.js": {
+    "modify": "Fri, 14 Nov 2014 03:43:37 GMT",
+    "etag": "\"16df0-507c96f14ac40\""
+  },
+  "tieba.baidu.com/tb/static-common/component/commonLogic/common/crosspage_msg_system/MsgSystem.js?v=18.58": {
+    "modify": "Tue, 25 Nov 2014 03:02:49 GMT"
   },
   "l.bst.126.net/rsc/js/jquery-1.6.2.min.js": {
     "modify": "Fri, 29 Jul 2011 07:55:27 GMT"
   },
+  "static.youku.com/v1.0.1050/cms/js/cmsCommon.js": {
+    "modify": "Thu, 05 Mar 2015 02:51:36 GMT",
+    "etag": "\"210148023\""
+  },
+  "mat1.gtimg.com/finance/js/st/p/qq/q_fin_v20140623144932.js?ran=0.5038866298273206": {},
+  "d5.sina.com.cn/litong/kuaijieweibo/mv/mvf_g2.js": {},
+  "s0.hao123img.com/v4/fB/jo/Xy/my/lL/fBjoXymylL.js": {
+    "modify": "Tue, 28 Apr 2015 07:46:11 GMT",
+    "etag": "\"2141766368\""
+  },
+  "images.sohu.com/bill/default/v5.js": {},
+  "i.img.vsnoon.net/js/jquery.superslide.2.1.1.js": {
+    "modify": "Wed, 23 Apr 2014 18:09:54 GMT"
+  },
+  "s0.qhimg.com/lib/qwrap/113.js": {
+    "modify": "Sat, 03 Jan 2015 17:00:09 GMT",
+    "etag": "\"54a82019-4fc3\""
+  },
+  "tieba.baidu.com/tb/static-common/component/commonLogic/common/common_default_merger.js?v=18.58": {
+    "modify": "Tue, 25 Nov 2014 03:02:49 GMT"
+  },
+  "img1.cache.netease.com/cnews/js/ntes_jslib_1.x.js": {
+    "modify": "Wed, 04 Aug 2010 07:54:09 GMT",
+    "etag": "\"4c591ca1-4916\"",
+    "charset": "GBK"
+  },
+  "static.youku.com/v1.0.1050/js/jquery.js": {
+    "modify": "Fri, 27 Feb 2015 09:12:52 GMT",
+    "etag": "\"3942481284\""
+  },
+  "mat1.gtimg.com/www/js/qq2012/smartboxRewrite1.7.js": {},
+  "www.sina.com.cn/js/79/2013/0717/fix.js": {},
+  "s1.hao123img.com/v4/xy/FM/bl/NT/cj/xyFMblNTcj.js": {
+    "modify": "Mon, 27 Apr 2015 08:32:49 GMT",
+    "etag": "\"1770709764\""
+  },
+  "js.sohu.com/pv/spv1209061800.js": {
+    "modify": "Thu, 07 Mar 2013 07:57:02 GMT"
+  },
+  "y1.ifengimg.com/www/index_nav_search_v140312r1.js": {
+    "modify": "Wed, 12 Mar 2014 09:38:48 GMT"
+  },
+  "tieba.baidu.com/tb/static-common/component/commonLogic/common/user_message/UserMessage.js?v=18.58": {
+    "modify": "Tue, 25 Nov 2014 03:02:49 GMT"
+  },
+  "img3.cache.netease.com/cnews/js/ntes_jslib_1.x.js": {
+    "modify": "Wed, 04 Aug 2010 07:54:09 GMT",
+    "etag": "\"4c591ca1-4916\"",
+    "charset": "GBK"
+  },
   "static.youku.com/v1.0.1050/js/prototype.js": {
     "modify": "Fri, 27 Feb 2015 09:12:52 GMT",
-    "etag": "\"516536916\""
+    "etag": "\"4233198964\""
+  },
+  "mat1.gtimg.com/www/asset/lib/jquery/jquery/jquery-1.11.1.min.js": {},
+  "d1.sina.com.cn/d1images/common/adNone.js": {},
+  "s1.hao123img.com/v4/NT/CI/sL/Wm/CX/NTCIsLWmCX.js": {
+    "modify": "Fri, 24 Apr 2015 07:18:30 GMT",
+    "etag": "\"411036157\""
+  },
+  "js.sohu.com/pv/pvclick1211071116.js": {
+    "modify": "Thu, 07 Mar 2013 07:56:45 GMT"
+  },
+  "h0.ifengimg.com/ifeng/sources/yingguang-20140307.js": {},
+  "img.baidu.com/hunter/alog/alog.min.js": {
+    "modify": "Fri, 23 May 2014 06:06:14 GMT",
+    "etag": "\"1267227191\""
+  },
+  "img1.cache.netease.com/cnews/js/ntes_jslib_ui_0.x.js": {
+    "modify": "Fri, 07 May 2010 01:46:04 GMT",
+    "etag": "\"4be370dc-1204\"",
+    "charset": "GBK"
+  },
+  "static.youku.com/v1.0.1050/paycenter/js/cps.js": {
+    "modify": "Wed, 11 Sep 2013 10:43:06 GMT",
+    "etag": "\"2109463145\""
+  },
+  "pingjs.qq.com/ping.js": {},
+  "city.sina.com.cn/js/83/2011/1102/5.js": {},
+  "s0.hao123img.com/res/js/track.js?397322": {
+    "modify": "Mon, 30 Mar 2015 07:47:44 GMT",
+    "etag": "\"3559640782\""
+  },
+  "www.sohu.com/sohuflash_1.js": {},
+  "y0.ifengimg.com/p/login/20130927/public_login.min.js": {
+    "modify": "Fri, 27 Sep 2013 05:49:54 GMT"
   }
 }
