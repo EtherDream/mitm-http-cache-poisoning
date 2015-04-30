@@ -1,5 +1,5 @@
 /**
- * MITM-Http-Cache-Poisoning Sniffer
+ * MITM-Http-Cache-Poisoning
  *   @update 2015/04/30
  *   @author EtherDream
  */
