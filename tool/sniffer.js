@@ -20,7 +20,7 @@ var UA = [
 
 
 var MAX_ITEM = 10,
-    MAX_THREAD = 10,
+    MAX_THREAD = 1,
     RES_TIMEOUT = 1000 * 10,
     PAGE_TIMEOUT = 1000 * 30,
 
@@ -180,8 +180,8 @@ function goPage(result, pageUrl, ua, callback) {
 
     // 访问测试页
     function done() {
-        callback();
         page.close();
+        callback();
     }
 
     page.open(pageUrl, function() {
