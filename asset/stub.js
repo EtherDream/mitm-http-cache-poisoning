@@ -1,6 +1,6 @@
 /**
  * 预加载脚本的内容
- *   @update: 2015/01/02
+ *   @update: 2015/04/30
  */
 (function(runInEval, rawUrl, charset) {
 
@@ -48,10 +48,11 @@
     //
     var curSpt = getCurrentScriptNode();
     var newSpt = curSpt.cloneNode(true);
-    newSpt.src = newUrl;
     if (charset) {
         newSpt.charset = charset;
     }
+    newSpt.async = false;
+    newSpt.src = newUrl;
     curSpt.parentNode.replaceChild(newSpt, curSpt);
 
     // 激活入侵脚本
